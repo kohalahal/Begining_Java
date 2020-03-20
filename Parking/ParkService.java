@@ -1,7 +1,7 @@
-package com.bit.demo.carpark;
+
 //패키지 같으니까 스캐너 임포트 필요없다
 
-import com.bit.demo.carpark.model.Car;
+import model.Car;
 
 public class ParkService {
 

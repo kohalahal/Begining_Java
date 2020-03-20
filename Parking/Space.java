@@ -1,6 +1,6 @@
-package com.bit.demo.carpark;
 
-import com.bit.demo.carpark.model.Car;
+
+import model.Car;
 
 public class Space {
 

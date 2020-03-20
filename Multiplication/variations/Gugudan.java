@@ -1,4 +1,5 @@
-public class Gugudan4 {
+package variations;
+public class Gugudan {
 
 	public void print() {
 		// TODO Auto-generated method stub
@@ -14,13 +15,12 @@ public class Gugudan4 {
 		
 		for ( int b = 1; b <= 9; b += di ) {
 			
-			System.out.print( a + " x " + b + " = " + (a * b) +" ");
+			System.out.println( a + " x " + b + " = " + (a * b));
 			
 			}
 		
 		}
 	}
 
-	
-	
 }
+	

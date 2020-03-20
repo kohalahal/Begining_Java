@@ -4,5 +4,6 @@
 	<classpathentry kind="src" path="Multiplication"/>
 	<classpathentry kind="src" path="Numbers"/>
 	<classpathentry kind="src" path="PrintStars"/>
+	<classpathentry kind="src" path="Parking"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

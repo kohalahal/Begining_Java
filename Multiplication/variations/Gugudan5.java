@@ -1,8 +1,9 @@
+package variations;
 
 
 public class Gugudan5 {
 
-	public static void print(int a, int b) {
+	public void print(int a, int b) {
 		
 				
 		int start = a;

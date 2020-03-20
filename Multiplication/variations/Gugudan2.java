@@ -1,3 +1,4 @@
+package variations;
 public class Gugudan2 {
 	
 	public void print() {

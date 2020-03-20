@@ -1,3 +1,4 @@
+package variations;
 
 
 import java.util.Scanner;

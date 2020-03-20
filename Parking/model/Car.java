@@ -1,4 +1,4 @@
-package com.bit.demo.carpark.model;
+package model;
 
 public class Car {
 	private int inhour;

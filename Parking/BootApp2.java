@@ -1,8 +1,6 @@
-package com.bit.demo.carpark;
-
 import java.util.Scanner;
 
-import com.bit.demo.carpark.model.Car;//하위 패키지도 임포트해야한다.
+import model.Car;//하위 패키지도 임포트해야한다.
 
 /**
  * 
@@ -14,7 +12,7 @@ import com.bit.demo.carpark.model.Car;//하위 패키지도 임포트해야한�
  */
 //서비스 대수랑 클론만들어서 주는 것
 
-public class BootApp {
+public class BootApp2 {
 //	public static int size = 5; //주차 가능 대수????????????????????????서비스???????????
 	
 	public static void main(String[] args) {
