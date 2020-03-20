@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Multiplication"/>
+	<classpathentry kind="src" path="Numbers"/>
+	<classpathentry kind="src" path="PrintStars"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
